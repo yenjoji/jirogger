@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on 二郎と私 </title>
+    <link>http://yenjoji.github.io/jirogger/tags/misc/</link>
+    <description>Recent content in Misc on 二郎と私 </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 01 Jan 2016 13:24:45 +0900</lastBuildDate>
+    <atom:link href="http://yenjoji.github.io/jirogger/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>このサイトについて</title>
+      <link>http://yenjoji.github.io/jirogger/post/about/</link>
+      <pubDate>Fri, 01 Jan 2016 13:24:45 +0900</pubDate>
+      
+      <guid>http://yenjoji.github.io/jirogger/post/about/</guid>
+      <description>&lt;p&gt;このサイトは私がラーメン（主に二郎、二郎系）に訪れた記録をしています。&lt;/p&gt;
+
+&lt;p&gt;ジロリアンの先輩諸氏には遠く及びませんが、自分なりに食べた感想などを綴ろうと思っています。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
