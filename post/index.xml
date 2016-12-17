@@ -6,8 +6,77 @@
     <description>Recent content in Posts on 二郎と私</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 19 Apr 2016 20:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 17 Dec 2016 23:11:36 +0900</lastBuildDate>
     <atom:link href="http://yenjoji.github.io/jirogger/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>jirolian.info というサービスをつくりました</title>
+      <link>http://yenjoji.github.io/jirogger/blog/2016/12/17/jirolian.info-%E3%81%A8%E3%81%84%E3%81%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <pubDate>Sat, 17 Dec 2016 23:11:36 +0900</pubDate>
+      
+      <guid>http://yenjoji.github.io/jirogger/blog/2016/12/17/jirolian.info-%E3%81%A8%E3%81%84%E3%81%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <description>
+
+&lt;p&gt;こんにちは。ラーメン二郎歴１年半のyenjojiです。
+この記事は&lt;a href=&#34;http://www.adventar.org/calendars/1363&#34;&gt;ラーメン二郎アドベントカレンダー&lt;/a&gt;の17日目の記事です。&lt;/p&gt;
+
+&lt;p&gt;今日は、ラーメン二郎が好きなエンジニアが、いかにしてワンチャンスを逃さずにラーメンを食べるかを考えた結果作るに至ったサービスについて書きます。
+完全なる自分向けサービスなのですが、同好者の皆さんのお役に少しでも立てば幸いです。&lt;/p&gt;
+
+&lt;h1 id=&#34;tl-dr&#34;&gt;TL;DR&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;二郎が好きなので現在地から近い順に二郎を検索する&lt;a href=&#34;https://jirolian-info.herokuapp.com/&#34;&gt;Webサービス&lt;/a&gt;を作りました&lt;/li&gt;
+&lt;li&gt;データを&lt;a href=&#34;https://www.github.com/yenjoji/jirolian_data&#34;&gt;GitHub&lt;/a&gt;で公開しているので、ラーメン屋さん情報を提供してくださる優しい方がいればプルリクお願いします&lt;/li&gt;
+&lt;li&gt;要望とか、データが違うよとかご意見は&lt;a href=&#34;https://twitter.com/jirolian_info&#34;&gt;専用Twitterアカウント&lt;/a&gt;までよろしくお願いします。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;今すぐ食べたいをサポートするサービス&#34;&gt;今すぐ食べたいをサポートするサービス&lt;/h1&gt;
+
+&lt;p&gt;勉強会などで、普段行かない場所に訪れることがありました。
+概ね懇親会があったりしますが、中には懇親会がなく、そのまま解散になる勉強会もあったりします。&lt;/p&gt;
+
+&lt;p&gt;そんな、あまり馴染みのない土地で、21時位に時間ができてしまったら？
+まっすぐ家に帰るのもよし、
+そのへんでノマドするもよし、
+でも、せっかく普段は行かない場所にいるのなら、そこから行ける二郎（インスパイア）でラーメンを食べたいものです。
+そんな土地勘がない場所でも、迷わずラーメンを食べに行けるようになったらいいなと思い、このサービスを作りました。&lt;/p&gt;
+
+&lt;h1 id=&#34;データが少ないので&#34;&gt;データが少ないので&lt;/h1&gt;
+
+&lt;p&gt;人力でデータを入力している関係もあって、データはラーメン二郎の各店舗と、自分がいったことのあるインスパイア系の店舗を中心になっています。
+自分が行ったことのない店舗もどんどん追懐していきたいので、おすすめの店舗があればぜひ教えてください。&lt;/p&gt;
+
+&lt;p&gt;データファイル(JSON)形式をgithubリポジトリにおいてありますので、お時間がある方はデータファイルを作成して、プルリクエストなど投げていただければ更にうれしいです。
+（間に合ってないですが、そのうちReadmeにデータフォーマットを書きます！）&lt;/p&gt;
+
+&lt;h1 id=&#34;ご意見-ご要望など&#34;&gt;ご意見、ご要望など&lt;/h1&gt;
+
+&lt;p&gt;データが間違ってる、この店舗を追加して欲しい、こんな項目を表示して欲しいなどは&lt;a href=&#34;https://twitter.com/jirolian_info&#34;&gt;専用Twitterアカウント&lt;/a&gt;までよろしくお願いします。&lt;/p&gt;
+
+&lt;p&gt;それでは、皆さんよいラーメン二郎ライフを！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2016/4/26 ラーメン二郎新橋店</title>
+      <link>http://yenjoji.github.io/jirogger/blog/2016/04/24/2016/4/26-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E%E6%96%B0%E6%A9%8B%E5%BA%97/</link>
+      <pubDate>Sun, 24 Apr 2016 23:00:00 +0900</pubDate>
+      
+      <guid>http://yenjoji.github.io/jirogger/blog/2016/04/24/2016/4/26-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E%E6%96%B0%E6%A9%8B%E5%BA%97/</guid>
+      <description>&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BEqamtdl4m0/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;今年三回目の新橋　20時30分頃到着で、ベンチ5人まち。&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;yenjojiさん(@yenjoji)が投稿した写真 - &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2016-04-26T12:02:24+00:00&#34;&gt;2016  4月 26 5:02午前 PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BEqapSLF4m3/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;今日のコールはアブラのみ。 それでもクタシャキの野菜たっぷり。 新橋はヤサイの盛りがいい！ アブラはドロッとした固まりがたっぷり。麺やヤサイと一緒に頬張ればアブラの甘さがたされてひと味違う旨さ！ スープは、着丼後にレンゲですくうと甘みかあっていいかんじ！ 後半野菜で徐々に薄まっていくので、テーブルの醤油で、味を調えつつ食べ進む。 隣のお客さんが、生卵っぽいのをつけてておいしそうだった。次回は生卵付けようと思う。&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;yenjojiさん(@yenjoji)が投稿した写真 - &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2016-04-26T12:02:45+00:00&#34;&gt;2016  4月 26 5:02午前 PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BEqasZEF4m7/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;麺は四角い太麺。 幅は他の二郎と大差ない気がするが、太さがある分食べ応えがあっていい！ かたすぎず、柔らかすぎずなワシワシ感のある麺。&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;yenjojiさん(@yenjoji)が投稿した写真 - &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2016-04-26T12:03:11+00:00&#34;&gt;2016  4月 26 5:03午前 PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BEqauxTF4m8/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;ブタは身の締まったブタ。ちょっとコンビーフっぽい食感。今日は味濃いめ、刻んでご飯にかけて、玉子落としてその上からブタの煮汁をかけまわしたい感じ。&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;yenjojiさん(@yenjoji)が投稿した写真 - &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2016-04-26T12:03:30+00:00&#34;&gt;2016  4月 26 5:03午前 PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>2016/4/19 ラーメン二郎 千住大橋駅前店 - 駅近・デロ・ショッパッ・ナイズブタ</title>
@@ -479,12 +548,11 @@ __&lt;/p&gt;
 
 &lt;p&gt;久しぶりに職場の二郎師匠と二郎仲間ともに新橋へ。&lt;/p&gt;
 
-&lt;p&gt;仕事終わりに職場の仲間と連れ立って、新橋へ。
-今日は虎ノ門駅から歩いてみました。新橋は、新橋店と言いながら虎ノ門の方が近い気がします。&lt;/p&gt;
+&lt;p&gt;今日は虎ノ門駅から歩いてみました。新橋は、新橋店と言いながら虎ノ門の方が近い気がします。&lt;/p&gt;
 
 &lt;p&gt;お店につくと、カウンターはちょうど埋まっているものの、店内のベンチでの待ちはなし。なかなかのタイミングでした。&lt;/p&gt;
 
-&lt;p&gt;店内の券売機で「小ラーメン」の食券を購入して、店内ベンチで待ちます。&lt;/p&gt;
+&lt;p&gt;店内の券売機で「小ラーメン」の食券を購入して、店内ベンチに着席して待ちます。&lt;/p&gt;
 
 &lt;p&gt;相変わらずの広い店内と、広いカウンターテーブルがいい感じです。&lt;/p&gt;
 
@@ -607,108 +675,6 @@ __&lt;/p&gt;
 &lt;p&gt;プチラーメンと言っても麺が200Gグラムと、普通のラーメン屋さんと同等だそうで、食べきるのに苦しいということはないものの、（ヤサイ多めでも良かったかなとちょっと思いましたが）満足出来ました。&lt;/p&gt;
 
 &lt;p&gt;営業時間も深夜3時までと（カロリー的には非常に心配なものの）帰りがけ小腹が空いた時に気軽に寄れていいですね。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2016/2/9 ラーメン二郎 仙川店</title>
-      <link>http://yenjoji.github.io/jirogger/blog/2016/02/10/2016/2/9-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E-%E4%BB%99%E5%B7%9D%E5%BA%97/</link>
-      <pubDate>Wed, 10 Feb 2016 01:20:07 +0900</pubDate>
-      
-      <guid>http://yenjoji.github.io/jirogger/blog/2016/02/10/2016/2/9-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E-%E4%BB%99%E5%B7%9D%E5%BA%97/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;6&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/BBkOZPQF4nc/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;@yenjojiが投稿した写真&lt;/a&gt; - &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2016-02-09T12:46:05+00:00&#34;&gt;2016  2月 9 4:46午前 PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;ラーメン二郎 仙川店に行ってきました。&lt;/p&gt;
-
-&lt;p&gt;ラーメン二郎にしては珍しく駅から近く、5分とかからない距離なので、寒い日にサクッと温まりたい時にありがたいですね。&lt;/p&gt;
-
-&lt;p&gt;来訪日時は 2016/2/9 21:00 頃でした。&lt;/p&gt;
-
-&lt;p&gt;その時点では待ち人数は2人、仙川店は店の中で待つスペースがないので、外で待ちます。
-先に食券を買ってから待つのが他の店と違うルールです。入り口の張り紙にもその旨記載されていました&lt;/p&gt;
-
-&lt;p&gt;お作法にしたがって、食券を購入して、店の前に並びました。
-2/9は肉の日ということで子ブタにしました。&lt;/p&gt;
-
-&lt;p&gt;食券を目黒店と同じく待機ゾーンの地面にラインが引いてあるので、それにしたがって並びます。&lt;/p&gt;
-
-&lt;p&gt;券売機には100円専用と書いてありましたが、1000円札は普通に使えました。
-100円専用の真意はよくわかりませんでした。&lt;/p&gt;
-
-&lt;p&gt;待機ゾーンで待っていると、店主から「麺少なめ、大盛り有りますか？」と聞かれるので、食券を見せてアピールしましょう。&lt;/p&gt;
-
-&lt;p&gt;1ロット5人くらいのようですが、関は空いたところに順次着席していく方式です。
-特に案内されないので、空いたところに勝手に座ります。&lt;/p&gt;
-
-&lt;p&gt;着席後カウンターの上に食券を追いて、出来上がりを待ちます。&lt;/p&gt;
-
-&lt;p&gt;程なく「ニンニク入れますか？」と聞かれるので、答えます。
-今日も「ヤサイアブラ」をコールしました。&lt;/p&gt;
-
-&lt;p&gt;程なく着丼。
-アブラは塊がたっぷりで私好み、ヤサイはましてもそこまで多くない印象を受けました。茹で加減は結構しっかり目にゆでてあるもののシャッキリ感は残っている感じでした。
-豚は、固くしまったブタで、噛みごたえがあってこれはこれでいい感じです。
-今回は子ブタなので。このブタが5枚くらいは入っていたと思います。厚手で噛みごたえがあるので、かなり満腹中枢が刺激されて後半きつかったです、&lt;/p&gt;
-
-&lt;p&gt;麺はちょっと細めなんでしょうか、品川と同じくらいに感じました。
-茹で加減はいい感じの柔らかさで、麺は美味しかったです。&lt;/p&gt;
-
-&lt;p&gt;スープは、非乳化で、アブラ層と、醤油層がはっきり分かれているタイプ。
-麺もヤサイも、アブラとタレが適度に絡んでいい感じでした。&lt;/p&gt;
-
-&lt;p&gt;後半お腹がいっぱいになってしまい＆レンゲがなかったので、スープがほとんど飲めず、印象は薄いですが。
-しっかり醤油の聞いたスープに感じました。&lt;/p&gt;
-
-&lt;p&gt;個人的には味が薄いとは想いませんでしたが、周りのお客さんはカラメを頼んている人が多かったです。&lt;/p&gt;
-
-&lt;p&gt;二郎ランキングでは酷評されることが多い仙川ですが、かなりおいしくいただけました。
-次回は小ラーメンにして、スープを楽しみたいと思います。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2016/1/29 ぎょうてん屋 町田店</title>
-      <link>http://yenjoji.github.io/jirogger/blog/2016/02/02/2016/1/29-%E3%81%8E%E3%82%87%E3%81%86%E3%81%A6%E3%82%93%E5%B1%8B-%E7%94%BA%E7%94%B0%E5%BA%97/</link>
-      <pubDate>Tue, 02 Feb 2016 19:58:43 +0900</pubDate>
-      
-      <guid>http://yenjoji.github.io/jirogger/blog/2016/02/02/2016/1/29-%E3%81%8E%E3%82%87%E3%81%86%E3%81%A6%E3%82%93%E5%B1%8B-%E7%94%BA%E7%94%B0%E5%BA%97/</guid>
-      <description>&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;6&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BBJWG49F4sr/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;ぎ郎　野菜マシ　にんにくちょっと&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;@yenjojiが投稿した写真 - &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2016-01-30T02:13:59+00:00&#34;&gt;2016  1月 29 6:13午後 PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;町田のブックオフスーパーバザールの向かい側にある、「ぎょうてん屋 町田店」へ行ってきました。&lt;/p&gt;
-
-&lt;p&gt;今年初のインスパイア系です。&lt;/p&gt;
-
-&lt;p&gt;訪問日時は 2016/1/29 24:15 頃
-終バスを取るかラーメンを取るかの葛藤をのりこえてぎょうてん屋へ向かいました。&lt;/p&gt;
-
-&lt;p&gt;注文は 「ぎ郎 にんにくちょっと 野菜マシ」&lt;/p&gt;
-
-&lt;p&gt;時間が遅かったせいもあって、さくっと着席できました。
-ただ、入り口のすぐ近くなので、人が入ってくるたびに風が入って寒い！&lt;/p&gt;
-
-&lt;p&gt;しばらく待っていると待望のラーメンが来ました。&lt;/p&gt;
-
-&lt;p&gt;外が寒いせいではないと思いますが、湯気で写真が取りにくいくらいスープがアツアツでした。
-寒い日にはありがたいですね。&lt;/p&gt;
-
-&lt;p&gt;麺は硬めなものの、ポキッとするほどではなくて、ワシワシと噛み応えがある感じでうまい。&lt;/p&gt;
-
-&lt;p&gt;スープは前述のとおりアツアツで、湯気がすごい。&lt;/p&gt;
-
-&lt;p&gt;豚はトロトロでしっかり味がついていて旨い。
-その豚をスープにしばらくつけておくと適度にアブラがとろけて来て尚旨い。&lt;/p&gt;
-
-&lt;p&gt;野菜はしゃっきり、ちょい火の通し方が控えめ。
-これもスープにしばらくつけておくと味がしみて旨い。&lt;/p&gt;
-
-&lt;p&gt;パット見普通の量かなとおもいましたが、かなりお腹がいっぱいになりました。
-ちょっと量は多めかもしれません。&lt;/p&gt;
-
-&lt;p&gt;食べ終わる頃には体も温まっていい感じに帰路につけました。&lt;/p&gt;
-
-&lt;p&gt;美味しゅうございました。&lt;/p&gt;
 </description>
     </item>
     
